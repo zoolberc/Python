@@ -58,4 +58,4 @@ if baseSrc == 10 :
 else:
     nb1 = convert_to_dec1(nb,baseSrc)
     convert_dec(nb1,baseDst)
-
+input('Нажмите Enter для выхода')
